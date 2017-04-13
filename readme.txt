@@ -6,7 +6,10 @@ Parts of the project:
 - Firmware for Atmel AVR ATmega microcontroller (UART communication, control signals generation for the servo motors) 
 - Circuit board designed specifically for this project
 
-Video:
+Video autonomous mode:
+https://youtu.be/MYOsEheo1Vk
+
+Video pre-programmed mode:
 https://youtu.be/MYOsEheo1Vk
 
 
