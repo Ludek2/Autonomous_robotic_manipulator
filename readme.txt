@@ -1,24 +1,12 @@
-Robotický manipulátor
-(Bakaláøská práce)
+Autonomous robotic manipulator that is controlled using a computer vision. 
 
-Autor práce:  Ludìk Navrátil
-Vedoucí práce: Ing. Roman Mego
+Parts of the project:
 
-Brno, 2013
+- PC C++ application for (UI, computer vision, kinematics math, manual and automated control of the robot)
+- Firmware for Atmel AVR ATmega microcontroller (UART communication, control signals generation for the servo motors) 
+- Circuit board designed specifically for this project
 
-============================================================
-
-DPS              - podklady pro výrobu desek plošných spojù
-                 - DPS øídící jednotky
-	         - DPS panelu    
-	         - Eagle 6.1.0
+Video:
+https://youtu.be/MYOsEheo1Vk
 
 
-Firmware         - zdrojový kód pro mikrokontrolér
-	         - AVR Studio 5	
-
-               
-PC Application   - Øídící a obslužný program pro PC
-                 - Microsoft Visual Studio 2008
-
-Samolepka_panelu - samolepka na vrchní èást krabièky øídící jednotky
