@@ -1,4 +1,4 @@
-Autonomous robotic manipulator that is controlled using a computer vision. 
+Autonomous robotic manipulator that is controlled using a computer vision library OpenCV. 
 
 Parts of the project:
 
